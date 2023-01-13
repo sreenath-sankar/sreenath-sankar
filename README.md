@@ -14,7 +14,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/sreenath_sankar#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/kaggle-light.svg)](https://kaggle.com/SreenathSankar#gh-light-mode-only)
-[![website](./img/kaggle-dark.svg)](https://kaggle.com/SreenathSankar#gh-dark-mode-only)
+<!-- [![website](./img/kaggle-dark.svg)](https://kaggle.com/SreenathSankar#gh-dark-mode-only) -->
 
 ### Languages and Tools:
 
