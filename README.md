@@ -1,36 +1,19 @@
-# Hi there, I'm Sreenath👋
+# Sreenath Sankar
 
-### Interests - Data Science, ML, Development
+Data scientist / ML engineer. I build and evaluate machine learning systems, and I'm currently focused on LLM agents, retrieval-augmented generation, and how to measure whether they actually work.
 
-### Connect with me:
+## Selected work
 
-[![website](./img/twitter-light.svg)](https://twitter.com/SreenathSankar#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/SreenathSankar#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sreenath-sankar#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sreenath-sankar#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/sreenath_sankar#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/sreenath_sankar#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/kaggle-light.svg)](https://kaggle.com/SreenathSankar#gh-light-mode-only)
-<!-- [![website](./img/kaggle-dark.svg)](https://kaggle.com/SreenathSankar#gh-dark-mode-only) -->
+- [HabitTracker](https://github.com/sreenath-sankar/HabitTracker) — Android habit tracker in Kotlin and Jetpack Compose
+- [synthetic-email-generator](https://github.com/sreenath-sankar/synthetic-email-generator) — PII-masked synthetic emails from the Enron corpus using an LLM
+- [driver_churn_prediction](https://github.com/sreenath-sankar/driver_churn_prediction) — churn classifier with KNN imputation, class-imbalance handling, bagging and boosting
+- [recommender_system_scaler](https://github.com/sreenath-sankar/recommender_system_scaler) — collaborative filtering three ways: Pearson, cosine, matrix factorisation
+- [forecast_page_view](https://github.com/sreenath-sankar/forecast_page_view) — ARIMA, SARIMAX and Prophet forecasts of page views for ad placement
+- [bike_demand_ABtest](https://github.com/sreenath-sankar/bike_demand_ABtest) — hypothesis testing (t-test, chi-square, ANOVA) on bike-rental demand
+- [house_price_prediction](https://github.com/sreenath-sankar/house_price_prediction) — Kaggle regression with feature engineering and XGBoost
+- [mlflow_exp_tracking](https://github.com/sreenath-sankar/mlflow_exp_tracking) — experiment tracking with MLflow
+- [Data-Analysis](https://github.com/sreenath-sankar/Data-Analysis) — five EDA case studies: Netflix, airline overbooking, Black Friday retail, e-commerce SQL, customer profiling
 
-### Languages and Tools:
+## Elsewhere
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][python]
-[<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />][numpy]
-[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />][pandas]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][mongoDB]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][mySQL]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][github]
-
-
-[python]: https://www.python.org/
-[numpy]: https://numpy.org/
-[pandas]: https://pandas.pydata.org/
-[mongoDB]: https://www.mongodb.com/
-[mySQL]: https://www.mysql.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
+[LinkedIn](https://linkedin.com/in/sreenath-sankar) · [Kaggle](https://kaggle.com/SreenathSankar)
